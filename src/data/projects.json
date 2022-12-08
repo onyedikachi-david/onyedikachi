@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Arbitrary Sized Tanda Club",
+    "desc": "Built during Umoja 2 bounty hack, a brief overview : A tanda is a rotating savings and credit association for a group of friends or relatives. The members of the group meet often to contribute a certain amount of money to a pool, which is then given to one of the members. Tandas offer early recipients the equivalent of an interest-free loan. Smart contracts is used here to automize the payments and withdrawals for each period to ensure all participants receive the funds that they are entitled to. This automation also helps make the process much simpler and addresses the challenges of administration with tandas",
+    "date": "July 2022",
+    "code": "https://github.com/onyedikachi-david/Arbitrary-Sized-Tanda-Club",
+    "gallery": "",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "SponsorMe",
+    "desc": "A Blockchain Project built during the Umoja bounty hack. With Reach lang - the domain-specific language for trustworthy DApps, and react, a brief overview : A simple sonsorship platform where funders and enterpreneurs meet in a secured and decentralized environment.",
+    "date": "December 2021",
+    "code": "https://github.com/onyedikachi-david/SponsorMe-1",
+    "gallery": "",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "EventBrite Bot",
+    "desc": "A webscrapping python bot for a company",
+    "date": "September 2022",
+    "code": "https://github.com/heavenya/email_bot",
+    "gallery": "",
+    "tags": ["all", "web scraping"]
+  }
+]
